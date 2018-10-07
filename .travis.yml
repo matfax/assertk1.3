@@ -10,4 +10,3 @@ cache:
 
 script:
 - ./gradlew test
-- ./gradlew detektCheck
