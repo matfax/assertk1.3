@@ -23,7 +23,7 @@ allprojects {
 
 dependencies {
     // Replace "Tag" with latest version and -jvm with the submodule of your choice 
-    testImplementation 'com.github.matfax.assertk1.3:assertk-jvm:Tag'
+    testImplementation 'com.github.matfax.assertk3:assertk-jvm:Tag'
 }
 ```
 
