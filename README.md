@@ -1,12 +1,12 @@
 # assertk
 
-[![](https://jitpack.io/v/matfax/assertk1.3.svg)](https://jitpack.io/#matfax/assertk1.3)
+[![](https://jitpack.io/v/matfax/assertk3.svg)](https://jitpack.io/#matfax/assertk3)
 [![Build Status](https://travis-ci.com/matfax/assertk.svg?branch=master)](https://travis-ci.com/matfax/assertk)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1efeebd7825146e2bbcd24b58e7fca71)](https://www.codacy.com/app/matfax/assertk1.3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=matfax/assertk1.3&amp;utm_campaign=Badge_Grade)
-![GitHub License](https://img.shields.io/github/license/matfax/assertk1.3.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/matfax/assertk1.3.svg)
-![Libraries.io for GitHub](https://img.shields.io/librariesio/github/matfax/assertk1.3.svg)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=matfax/assertk1.3)](https://dependabot.com)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1efeebd7825146e2bbcd24b58e7fca71)](https://www.codacy.com/app/matfax/assertk3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=matfax/assertk3&amp;utm_campaign=Badge_Grade)
+![GitHub License](https://img.shields.io/github/license/matfax/assertk3.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/matfax/assertk3.svg)
+![Libraries.io for GitHub](https://img.shields.io/librariesio/github/matfax/assertk3.svg)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=matfax/assertk3)](https://dependabot.com)
 
 Assertions for Kotlin 1.3 inspired by AssertJ.
 
