@@ -95,8 +95,8 @@ fun <T : Collection<*>> Assert<T>.containsOnly(vararg elements: Any?) {
     if (notInExpected.isEmpty() && notInActual.isEmpty())
         return
     if (notInActual.isNotEmpty()) {
-        expected("to contain only:${show(elements)} but some elements were not found:${show(notInActual)}")
+        expected("to contain only:${show(elements)} some elements were not found:${show(notInActual)}")
     } else if (notInExpected.isNotEmpty()) {
-        expected("to contain only:${show(elements)} but extra elements were found:${show(notInExpected)}")
+        expected("to contain only:${show(elements)} some elements were not expected:${show(notInExpected)}")
     }
 }

@@ -127,7 +127,7 @@ class CollectionTest {
         val error = assertFails {
             assert(listOf(1)).containsOnly(1, 2)
         }
-        assertEquals("expected to contain all:<[1, 2]> some elements were not found:<[2]>", error.message)
+        assertEquals("expected to contain only:<[1, 2]> some elements were not found:<[2]>", error.message)
     }
 
     @Test
