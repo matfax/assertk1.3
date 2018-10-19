@@ -7,7 +7,7 @@ buildscript {
     }
 
     dependencies {
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.0-rc-146"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.0-rc-190"
         classpath "gradle.plugin.com.palantir.gradle.gitversion:gradle-git-version:0.12.0-rc2"
     }
 }
